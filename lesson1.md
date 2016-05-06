@@ -6,7 +6,7 @@
 - corn syrup make food not only tastes good but also **extend shelf life**
 
 ## Macronutrient Structure & Metabolism
-- live 3 mins without O_{2}, 3 days without water, 3 weeks without food (seriously?)
+- live 3 mins without O<sub>2</sub>, 3 days without water, 3 weeks without food (seriously?)
 - 3 macronutrients: carbohydrates, protein, fat
 - focusing on nutrients instead of food can be confusing
 - in each category, choose the ones *supporting* health instead of working against it
